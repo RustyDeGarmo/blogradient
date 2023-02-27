@@ -1,0 +1,202 @@
+[23-Jan-2023 19:03:58 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[23-Jan-2023 20:41:31 UTC] Cron unschedule event error for hook: do_pings, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":false,"args":[]}
+[25-Jan-2023 15:48:55 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[26-Jan-2023 16:35:08 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[26-Jan-2023 16:51:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[26-Jan-2023 16:58:09 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[26-Jan-2023 17:02:09 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:13:35 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:26:25 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:26:38 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:58:08 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 16:59:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:02:01 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:04:51 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:05:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:14:14 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:33:56 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:37:34 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:40:51 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:44:01 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:44:16 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:45:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:47:04 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:47:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:50:55 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:52:51 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:54:35 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 17:56:57 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:02:20 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:20:27 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:21:31 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:24:45 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:26:10 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:27:30 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:28:42 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[27-Jan-2023 18:29:53 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 15:04:15 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[30-Jan-2023 15:48:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 15:48:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:10:03 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:22:49 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:30:12 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:33:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:40:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[30-Jan-2023 16:42:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[31-Jan-2023 20:53:26 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[31-Jan-2023 23:13:15 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[07-Feb-2023 15:09:56 UTC] Cron reschedule event error for hook: wp_version_check, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"twicedaily","args":[],"interval":43200}
+[07-Feb-2023 15:10:03 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-customize-widgets.php on line 900
+[07-Feb-2023 15:44:15 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 198
+[09-Feb-2023 15:42:03 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 297
+[09-Feb-2023 15:42:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 297
+[09-Feb-2023 15:42:06 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 297
+[09-Feb-2023 16:52:29 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 193
+[09-Feb-2023 16:52:31 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 193
+[09-Feb-2023 16:52:31 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 193
+[09-Feb-2023 18:05:51 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:303
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(447): include_once()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\Rusty\\...')
+#4 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 303
+[09-Feb-2023 18:05:52 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:303
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(447): include_once()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Rusty\\...')
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\plugins.php(10): require_once('C:\\Users\\Rusty\\...')
+#5 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 303
+[09-Feb-2023 18:05:52 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:303
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(447): include_once()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Rusty\\...')
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\index.php(17): require('C:\\Users\\Rusty\\...')
+#5 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 303
+[09-Feb-2023 18:06:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 299
+[09-Feb-2023 18:06:43 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 299
+[09-Feb-2023 18:12:12 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 298
+[09-Feb-2023 18:12:12 UTC] PHP Parse error:  syntax error, unexpected identifier "add_action", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 298
+[09-Feb-2023 23:54:07 UTC] PHP Parse error:  syntax error, unexpected fully qualified name "\Blogradient_Elementor_Extension", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 298
+[11-Feb-2023 20:04:13 UTC] Cron reschedule event error for hook: wp_privacy_delete_old_export_files, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"hourly","args":[],"interval":3600}
+[11-Feb-2023 20:23:13 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 2
+[11-Feb-2023 20:23:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 372
+[11-Feb-2023 20:23:13 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 373
+[11-Feb-2023 20:25:13 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 2
+[11-Feb-2023 20:27:13 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 23
+[11-Feb-2023 20:28:10 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 29
+[11-Feb-2023 20:28:12 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 29
+[11-Feb-2023 20:28:12 UTC] PHP Parse error:  syntax error, unexpected identifier " " in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 29
+[11-Feb-2023 20:46:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\post.php(12): require_once('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:46:53 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\index.php(17): require('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:47:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\post.php(12): require_once('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:47:58 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\index.php(17): require('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:48:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\post.php(12): require_once('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:48:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\index.php(17): require('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:50:08 UTC] PHP Parse error:  syntax error, unexpected identifier "const MINIMUM_ELEMENTOR_VERSION", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 55
+[11-Feb-2023 20:50:08 UTC] PHP Parse error:  syntax error, unexpected identifier "const MINIMUM_ELEMENTOR_VERSION", expecting "function" or "const" in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 55
+[11-Feb-2023 20:50:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-admin\post.php(12): require_once('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
+[11-Feb-2023 20:50:54 UTC] PHP Fatal error:  Uncaught Error: Undefined constant Blogradient_Elementor_Extension::MINIMUM_ELEMENTOR_VERSION in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php:160
+Stack trace:
+#0 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php(138): Blogradient_Elementor_Extension->is_compatible()
+#1 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(308): Blogradient_Elementor_Extension->on_plugins_loaded('')
+#2 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#3 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-settings.php(480): do_action('plugins_loaded')
+#5 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-config.php(93): require_once('C:\\Users\\Rusty\\...')
+#6 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-load.php(50): require_once('C:\\Users\\Rusty\\...')
+#7 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Rusty\\...')
+#8 C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\index.php(17): require('C:\\Users\\Rusty\\...')
+#9 {main}
+  thrown in C:\Users\Rusty\Local Sites\bootstrap2wordpress\app\public\wp-content\plugins\plugin-blogradient\plugin-blogradient.php on line 160
