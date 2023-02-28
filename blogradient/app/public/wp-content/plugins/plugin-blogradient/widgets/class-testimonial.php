@@ -5,6 +5,10 @@
  * 
  */
 
+ if(!defined('ABSPATH')){
+    exit; //exit if accessed directly for security
+}
+
 class Blogradient_Testimonial_Widget extends \Elementor\Widget_Base {
 
 	public function get_name() {

@@ -5,6 +5,10 @@
  * 
  */
 
+ if(!defined('ABSPATH')){
+    exit; //exit if accessed directly for security
+}
+
 class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 
 	public function get_name() {
@@ -45,7 +49,7 @@ class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 				'label'         => esc_html__( 'Title Text', 'plugin-blogradient' ),
                 'type'          => \Elementor\Controls_Manager::TEXT,
 				'label_block'   => true,
-                'placeholder'   => __('Type your Title here', 'plugin-blogradient'),
+                'placeholder'   => esc_html__('Type your Title here', 'plugin-blogradient'),
                 'default'       => __('Attention Grabbing Title', 'plugin-blogradient'),
 			]
 		);
@@ -56,7 +60,7 @@ class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 				'label'         => esc_html__( 'Card Text', 'plugin-blogradient' ),
                 'type'          => \Elementor\Controls_Manager::TEXT,
 				'label_block'   => true,
-                'placeholder'   => __('Type your card text here', 'plugin-blogradient'),
+                'placeholder'   => esc_html__('Type your card text here', 'plugin-blogradient'),
                 'default'       => __('Super engaging content', 'plugin-blogradient'),
 			]
 		);
@@ -73,12 +77,12 @@ class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 		);
 
 		$this->add_group_control(
-			\Elementor\Controls_Manager::get_type(),
+			\Elementor\Group_Control_Background::get_type(),
 			[
                 'name'      => 'background',
-				'types'      => ['classic', 'gradient'],
+				'types'     => ['classic', 'gradient'],
 				'label'     => esc_html__( 'Background', 'plugin-blogradient' ),
-                'selector' => '{{WRAPPER}} .text-card',
+                'selector'  => '{{WRAPPER}} .text-card',
 			]
 		);
 

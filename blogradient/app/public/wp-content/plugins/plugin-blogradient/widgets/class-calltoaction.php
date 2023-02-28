@@ -5,6 +5,10 @@
  * 
  */
 
+ if(!defined('ABSPATH')){
+    exit; //exit if accessed directly for security
+}
+
 class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 
 	public function get_name() {
@@ -183,7 +187,7 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 		);
 
         $this->add_group_control(
-			\Elementor\Controls_Manager::get_type(),
+			\Elementor\Group_Control_Background::get_type(),
 			[
                 'name'      => 'background',
 				'types'     => ['classic', 'gradient'],
@@ -200,12 +204,12 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 
         global $plugin_images;
         $settings = $this->get_settings_for_display();
-        $target = $settings['button_link']['is_external'] ? ' target= "_blank"' : '';
-        $nofollow = $settings['button_link']['nofollow'] ? ' rel= "nofollow"' : '';
+        $target = $settings['button_link']['is_external'] ? ' target= "_blank" ' : '';
+        $nofollow = $settings['button_link']['nofollow'] ? ' rel= "nofollow" ' : '';
 
         echo '<div class="section-call-to-action">';
         
-            echo '<div class="overlay"></div>';
+            echo '<div class="overlay">';
                 echo '<div class="overlay-image">';
                     echo '<img src="' . esc_url($settings['overlay_image']['url']) . '" />';
                 echo '</div>';
@@ -217,7 +221,7 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
             echo '<h2>' . $settings['title_text'] . '</h2>';
             echo '<p class="cta-description">' . $settings['cta_description'] . '</p>';
 
-            echo '<div class="link-box ' . $settings['button-alignment'] . '">';
+            echo '<div class="link-box ' . $settings['button_alignment'] . '">';
                 echo '<a href="' . $settings['button_link']['url'] . '" ' . $target . $nofollow . 
                     'class="btn ' . $settings['button_style'] . '>' . $settings['button_text'] . '</a>';
             echo '</div>';

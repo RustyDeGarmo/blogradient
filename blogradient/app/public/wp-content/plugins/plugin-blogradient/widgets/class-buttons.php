@@ -16,7 +16,7 @@ class Blogradient_Buttons_Widget extends \Elementor\Widget_Base {
     }
 
 	public function get_title() {
-        return esc_html__('Blogradient Button', 'plugin-blogradient');
+        return __('Blogradient Button', 'plugin-blogradient');
     }
 
 	public function get_icon() {

@@ -261,16 +261,16 @@
             require_once( __DIR__ . '/widgets/class-buttons.php' );
             require_once(__DIR__ . '/widgets/class-title.php');
             require_once(__DIR__ . '/widgets/class-color-link.php');
-            // require_once(__DIR__ . '/widgets/class-info-text-card.php');
-            // require_once(__DIR__ . '/widgets/class-calltoaction.php');
-            // require_once(__DIR__ . '/widgets/class-testimonial.php');
+            require_once(__DIR__ . '/widgets/class-info-text-card.php');
+            require_once(__DIR__ . '/widgets/class-calltoaction.php');
+            require_once(__DIR__ . '/widgets/class-testimonial.php');
 
             $widgets_manager->register( new \Blogradient_Buttons_Widget() );
             $widgets_manager->register( new \Blogradient_Title_Widget() );
             $widgets_manager->register( new \Blogradient_Link_Widget() );
-            // $widgets_manager->register( new \Blogradient_Card_Widget() );
-            // $widgets_manager->register( new \Blogradient_CTA_Widget() );
-            // $widgets_manager->register( new \Blogradient_Testimonial_Widget() );
+            $widgets_manager->register( new \Blogradient_Card_Widget() );
+            $widgets_manager->register( new \Blogradient_CTA_Widget() );
+            $widgets_manager->register( new \Blogradient_Testimonial_Widget() );
 
         }
     }
