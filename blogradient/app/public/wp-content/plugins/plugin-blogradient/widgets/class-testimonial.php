@@ -44,7 +44,7 @@ class Blogradient_Testimonial_Widget extends \Elementor\Widget_Base {
 		);
 
 		$this->add_control(
-			'testmonial_text',
+			'testimonial_text',
 			[
 				'label'         => esc_html__( 'Testimonial Text', 'plugin-blogradient' ),
                 'type'          => \Elementor\Controls_Manager::TEXT,

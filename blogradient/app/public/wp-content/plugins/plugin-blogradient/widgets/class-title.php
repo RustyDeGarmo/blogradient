@@ -114,14 +114,12 @@ class Blogradient_Title_Widget extends \Elementor\Widget_Base {
     }
 
 	protected function render() {
-
+        
         $settings = $this->get_settings_for_display();
 
         echo '<div class="title-wrapper ' . $settings['title_alignment'] . ' ">';
-        echo '<p class=".sub-title>' . $settings['subtitle_text'] . '</p>';
+        echo '<p class=".sub-title">' . $settings['subtitle_text'] . '</p>';
         echo '<h2>' . $settings['title_text'] . '</h2>';
         echo '</div>';
-
     }
-
 }

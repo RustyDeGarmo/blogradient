@@ -46,7 +46,7 @@ class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 		$this->add_control(
 			'card_title_text',
 			[
-				'label'         => esc_html__( 'Title Text', 'plugin-blogradient' ),
+				'label'         => esc_html__( 'Title', 'plugin-blogradient' ),
                 'type'          => \Elementor\Controls_Manager::TEXT,
 				'label_block'   => true,
                 'placeholder'   => esc_html__('Type your Title here', 'plugin-blogradient'),
@@ -94,13 +94,12 @@ class Blogradient_Card_Widget extends \Elementor\Widget_Base {
 
         $settings = $this->get_settings_for_display();
 
-        echo '<div class="text-card style-1">';
+        echo '<div class="text-card">';
             echo '<div class="overlay"></div>';
-                echo '<h4>' . $settings['card_title_text'] . '</h4>';
-                echo '<p>' . $settings['card_text'] . '</p>';
-                echo '<div class="overlay-image">';
-                    echo '<img src="' . esc_url($settings['card_image']['url']) . '" />';
-                echo '</div>';
+            echo '<h4>' . $settings['card_title_text'] . '</h4>';
+            echo '<p>' . $settings['card_text'] . '</p>';
+            echo '<div class="overlay-image">';
+                echo '<img src="' . esc_url($settings['card_image']['url']) . '">';
             echo '</div>';
         echo '</div>';
 

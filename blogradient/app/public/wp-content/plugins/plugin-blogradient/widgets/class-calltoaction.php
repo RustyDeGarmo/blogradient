@@ -78,7 +78,7 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 		);
 
 		$this->add_control(
-			'title-color',
+			'title_color',
             [
                 'type'          => \Elementor\Controls_Manager::COLOR,
                 'label'     => __('Title Color', 'plugin-blogradient'),
@@ -96,12 +96,12 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 				'label'         => esc_html__( 'Description', 'plugin-blogradient' ),
                 'label-block'   => true,
 				'default'       => __('Super exciting explanation of what you have to offer'),
-                'placeholder'   => __('Your call to action description', 'plugin-blogradient'),
+                'placeholder'   => __('Your call to action description is here, make it juicy!', 'plugin-blogradient'),
 			]
 		);
 
         $this->add_control(
-			'description-color',
+			'description_color',
             [
                 'type'          => \Elementor\Controls_Manager::COLOR,
                 'label'     => __('Description Color', 'plugin-blogradient'),
@@ -167,7 +167,7 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
 			[
 				'type'      => \Elementor\Controls_Manager::CHOOSE,
 				'label'     => esc_html__( 'Alignment', 'plugin-blogradient' ),
-                'default'   => 'text-start',
+                'default'   => 'text-center',
                 'toggle'    => true,
 				'options'   => [
 					'text-start'    => [
@@ -222,10 +222,8 @@ class Blogradient_CTA_Widget extends \Elementor\Widget_Base {
             echo '<p class="cta-description">' . $settings['cta_description'] . '</p>';
 
             echo '<div class="link-box ' . $settings['button_alignment'] . '">';
-                echo '<a href="' . $settings['button_link']['url'] . '" ' . $target . $nofollow . 
-                    'class="btn ' . $settings['button_style'] . '>' . $settings['button_text'] . '</a>';
+                echo '<a href="' . $settings['button_link']['url'] . '" ' . $target . $nofollow . ' class="btn ' . $settings['button_style'] . '">' . $settings['button_text'] . '</a>';
             echo '</div>';
-
         echo '</div>';
 
     }
